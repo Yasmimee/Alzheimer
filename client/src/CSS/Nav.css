@@ -1,0 +1,27 @@
+div{
+    margin: 0;
+}
+.logout, .login{
+    background-color: #47473e;
+    opacity: 0.9;
+    position: sticky;
+    width: 1280px;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    list-style: none;
+    margin-bottom: -5px;
+    font-family:  'Poppins', sans-serif;
+    color: black;
+    font-weight: bolder;
+
+    
+}
+
+.nav li {
+    list-style: none;
+    padding: 30px;
+
+}
+
+
